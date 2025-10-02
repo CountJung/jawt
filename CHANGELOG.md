@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/gobley/jawt/compare/jawt-v0.2.0...HEAD)
+## [Unreleased](https://github.com/gobley/jawt/compare/jawt-v0.2.1...HEAD)
 
 ## [`jawt` 0.2.1](https://github.com/gobley/jawt/releases/tag/jawt-v0.2.1) - 2025-10-02
 
