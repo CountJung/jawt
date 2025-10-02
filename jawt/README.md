@@ -28,9 +28,9 @@ Please refer to [the WGPU example](https://github.com/gobley/jawt/tree/main/jawt
 | -------------------- | ------------------ | ------------------ |
 | ![Windows WGPU Demo] | ![macOS WGPU Demo] | ![Linux WGPU Demo] |
 
-[Windows WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.0/images/windows.png
-[macOS WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.0/images/macos.png
-[Linux WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.0/images/linux.png
+[Windows WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.1/images/windows.png
+[macOS WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.1/images/macos.png
+[Linux WGPU Demo]: https://raw.githubusercontent.com/gobley/jawt/refs/tags/jawt-v0.2.1/images/linux.png
 
 ## Licensing
 
